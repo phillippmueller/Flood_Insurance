@@ -1,0 +1,3 @@
+structure_id,property_flood_zone,property_height,BFE,area,building_type,house_value,mortgage,income,race,education,ownership,flood_elevation_list,SVI
+1,'A',1,2,1000,residential,5000000,TRUE,10000,3,Masters's,TRUE,"[1,2,3]",
+2,'A',2,4,1000,residential,5000000,TRUE,10000,3,Masters's,TRUE,"[1,2,3]",
